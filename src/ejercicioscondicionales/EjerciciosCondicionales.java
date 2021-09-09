@@ -3,7 +3,7 @@ package ejercicioscondicionales;
 
 import java.util.Scanner;
 
-
+//Cacluclar sueldo según puesto
 public class EjerciciosCondicionales {
 
 
